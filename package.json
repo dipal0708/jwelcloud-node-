@@ -44,7 +44,7 @@
     "sharp": "^0.23.2",
     "unzip": "^0.1.11",
     "watchr": "^4.1.0",
-    "xlsx": "^0.14.3"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "json-loader": "^0.5.7",
