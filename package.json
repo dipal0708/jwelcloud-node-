@@ -27,7 +27,7 @@
     "fs-extra": "^8.1.0",
     "get-stream": "^5.1.0",
     "json2csv": "^4.5.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jwk-to-pem": "^2.0.1",
     "morgan": "^1.7.0",
     "multer": "^1.4.1",
